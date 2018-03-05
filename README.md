@@ -58,7 +58,7 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 *Comenzamos a indagar sobre qué dispositivo se conecta*
 
-**5- ¿Qué es lo que tienen estos sitios online para que ten seguridad con respecto a las compras?**
+**5- ¿Qué es lo que tienen estos sitios online para que te den seguridad con respecto a las compras?**
 
 **6- Y en las redes sociales ¿Eres una persona activa?**
 
