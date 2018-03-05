@@ -39,9 +39,13 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 ###### Screener validation:
 >Nombre :
+
 >Edad :
+
 >Zona en la que vive :
+
 >Tiene alguna cuenta bancaria :
+
 >Banco actual :
 
 **2- ¿Qué es lo que sueles hacer los fines de semana o tiempos libres?**
