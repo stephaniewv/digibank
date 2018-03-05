@@ -18,7 +18,7 @@ Presentación de Kick Off y conversaciones en el Squad para poder analizar cuál
 2. Conociendo el entorno: Preguntas para saber donde se desenvuelve nuestro usuario y sus circulos sociales.
 3. Arquetipo de Persona: Según los resultados de las entrevistas.
 4. Mapa de Empatía: Conocer que siente, piensa, hace y dice.
-5. Paints points: Conocer los dolores más granes que sufre en el día.
+5. Paints points: Conocer los dolores más grandes que sufre en el día.
 
 
 #### Guía de Entrevista
