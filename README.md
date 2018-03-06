@@ -34,13 +34,18 @@ En la parte de Business estarán las personas de la alta gerencia y marketing ya
 
 Los Engineers estarán conformados por los desarrolladores. Ellos me ayudarán a indicarme las limitaciones tecnológicas de mi proyecto.
 
-- Jefe de Innovación
 - Gerente de TI
-- Arquitectos de Software
+- Product Owner
+- Arquitecto de Software
+- Data scientist
+- Data engenieer
 
 ##### 3. UX People
 
 Los UX stakeholders son los otros researchers que trabajan en mi proyecto. Ellos me ayudarán a proporcionar más conocimiento a mi proyecto con diferentes ángulos sobre la experiencia de usuario.
+
+- UX Researcher
+- UX Designer
 
 ### RESEARCH
 
