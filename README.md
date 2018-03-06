@@ -2,6 +2,8 @@
 
 Digibank es una plataforma virtual bancaria que ayuda al usuario a realizar sus transacciones más importante mediante su smartphone.
 
+![image](https://user-images.githubusercontent.com/32310873/37055058-b6c8ff5e-214e-11e8-8332-253c553e5193.png)
+
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
