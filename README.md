@@ -5,7 +5,7 @@ Digibank es una plataforma virtual bancaria que ayuda al usuario a realizar sus 
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
-![image](https://user-images.githubusercontent.com/32310873/37055058-b6c8ff5e-214e-11e8-8332-253c553e5193.png)
+![image](https://user-images.githubusercontent.com/32310873/37055200-1c2e970a-214f-11e8-88b3-5c468d736d51.png)
 
 ## Descubrimiento e investigación
 
