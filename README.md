@@ -12,6 +12,36 @@ Digibank es una plataforma virtual bancaria que ayuda al usuario a realizar sus 
 
 Presentación de Kick Off y conversaciones en el Squad para poder analizar cuáles serían las metodologías a usar para el reto asignado.
 
+### STAKEHOLDERS
+
+Para nuestro ux-research se ha decidido dividir nuestro grupo de interés de la siguiente manera: 
+
+- Business
+- Engineering
+- UX people
+
+
+##### 1. Business
+
+En la parte de Business estarán las personas de la alta gerencia y marketing ya que nos ayudarán a que nuestra investigación vaya por el buen camino de los objetivos comerciales. Además, su apoyo me ayudará a garantizar que tenga el tiempo y los recursos necesarios para mi investigación.
+
+- CEO (Director General)
+- Gerente de Riesgos
+- Gerente de Marketing
+- Gerente de RR.HH
+
+##### 2. Engineering
+
+Los Engineers estarán conformados por los desarrolladores. Ellos me ayudarán a indicarme las limitaciones tecnológicas de mi proyecto.
+
+- Jefe de Innovación
+- Gerente de TI
+- Arquitectos de Software
+
+##### 3. UX People
+
+Los UX stakeholders son los otros researchers que trabajan en mi proyecto. Ellos me ayudarán a proporcionar más conocimiento a mi proyecto con diferentes ángulos sobre la experiencia de usuario.
+
 ### RESEARCH
 
 1. Conociendo a la persona : Se realiza preguntas abiertas para conocer cual es el perfil del usuario.
