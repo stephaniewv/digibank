@@ -122,8 +122,7 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 ###### Camila Tume
 
-
-![image](https://user-images.githubusercontent.com/32310873/37059245-ed7e1276-215a-11e8-867c-419df409f931.png)
+![image](https://user-images.githubusercontent.com/32310873/37059551-c465f09c-215b-11e8-8737-c802c4c1d6c6.png)
 
 
 
