@@ -124,7 +124,7 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 ![image](assets/img/diagrama-banco-zona.png)
 
-![image](assets/img/diagrama-entrevistas1.png)
+![image](assets/img/diagrama-compras.png)
 
 ###### Camila Tume
 
