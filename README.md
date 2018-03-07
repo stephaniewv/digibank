@@ -120,15 +120,15 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 #### Entrevista con los millennials
 
-#### Lista de preguntas relevantes, de nuestra Investigación.
+### Lista de preguntas relevantes, de nuestra Investigación.
 
 ![image](assets/img/lista-preguntas3.png)
 
 ![image](assets/img/diagrama-banco-zona.png)
 
-![image](assets/img/diagrama-compras.png)
+<center>![image](assets/img/diagrama-compras.png)</center>
 
-![image](assets/img/diagrama-aplicaciones.png)
+<center>![image](assets/img/diagrama-aplicaciones.png)</center>
 
 ###### Camila Tume
 
