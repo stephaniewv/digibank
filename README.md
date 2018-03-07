@@ -120,7 +120,8 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 #### Entrevista con los millennials
 
-![image](assets/img/lista-preguntas.png)
+#### Lista de preguntas relevantes, de nuestra Investigación.
+![image](assets/img/lista-preguntas1.png)
 
 ![image](assets/img/diagrama-banco-zona.png)
 
