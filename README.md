@@ -140,9 +140,7 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 #### Affinity MAP
 
-![image](assets/img/afinitymap-general.jpg)
-
-![image](assets/img/afinitymap-especifico.jpg)
+![image](assets/img/afinitymap.png)
 
 #### User Flow
 ![image](assets/img/user-flow.png)
