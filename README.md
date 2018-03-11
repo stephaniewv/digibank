@@ -22,6 +22,8 @@ Presentación de Kick Off y conversaciones en el equipo para poder analizar cuá
 #### STAKEHOLDERS
 Antes de adentrarnos de quiénes serían los principales STAKEHOLDERS en el desarrollo de un nuevo producto en el banco. Se realizó la consulta a **Ricardo Sanchez Rinaldi - Navigator @ Centro de InnovaCXión - Banco de Crédito BCP** para que nos pueda dar orientar en este proceso.
 
+![image](https://user-images.githubusercontent.com/32310873/37259673-297ada8e-2557-11e8-854f-e86a35e376f9.png)
+
 Una vez definido esto, se decidió dividir nuestro grupo de interés de la siguiente manera: 
 
 - Business
