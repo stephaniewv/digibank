@@ -146,3 +146,9 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 #### User Flow
 ![image](assets/img/user-flow.png)
+
+#### IDEACION
+
+#### PROTOTIPO
+
+![image](assets/img/PROTOTIPO1.png)
