@@ -21,10 +21,6 @@ Para nuestro ux-research se ha decidido dividir nuestro grupo de interés de la 
 - Engineering
 - UX people
 
-### MODELO CANVAS.
-
-![image](assets/img/CANVAS.png)
-
 
 ##### 1. Business
 
