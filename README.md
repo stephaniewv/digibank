@@ -129,6 +129,8 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 #### Entrevista con los millennials
 
+![image](https://user-images.githubusercontent.com/32310873/37059551-c465f09c-215b-11e8-8737-c802c4c1d6c6.png)
+
 ### Lista de preguntas relevantes, de nuestra Investigación.
 
 ![image](assets/img/lista-preguntas3.png)
@@ -139,9 +141,7 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 ![image](assets/img/diagrama-aplicaciones.png)
 
-###### Camila Tume
 
-![image](https://user-images.githubusercontent.com/32310873/37059551-c465f09c-215b-11e8-8737-c802c4c1d6c6.png)
 
 #### Affinity MAP
 
