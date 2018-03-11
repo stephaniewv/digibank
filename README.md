@@ -11,11 +11,18 @@ Digibank es una plataforma virtual bancaria que ayuda al usuario a realizar sus 
 
 ### Planeamiento
 
-Presentación de Kick Off y conversaciones en el Squad para poder analizar cuáles serían las metodologías a usar para el reto asignado.
+Presentación de Kick Off y conversaciones en el equipo para poder analizar cuáles serían las metodologías a usar para el reto asignado.
 
-### STAKEHOLDERS
+### DESCUBRIMIENTO
 
-Para nuestro ux-research se ha decidido dividir nuestro grupo de interés de la siguiente manera: 
+#### MODELO CANVAS.
+
+![image](assets/img/CANVAS.png)
+
+#### STAKEHOLDERS
+Antes de adentrarnos de quiénes serían los principales STAKEHOLDERS en el desarrollo de un nuevo producto en el banco. Se realizó la consulta a **Ricardo Sanchez Rinaldi - Navigator @ Centro de InnovaCXión - Banco de Crédito BCP** para que nos pueda dar orientar en este proceso.
+
+Una vez definido esto, se decidió dividir nuestro grupo de interés de la siguiente manera: 
 
 - Business
 - Engineering
@@ -28,8 +35,8 @@ En la parte de Business estarán las personas de la alta gerencia y marketing ya
 
 - CEO (Director General)
 - Gerente de Riesgos
-- Gerente de Marketing
-- Gerente de RR.HH
+- Jefe/Gerente de Producto
+- Sponsor
 
 ##### 2. Engineering
 
