@@ -139,7 +139,7 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 
 ![image](assets/img/lista-preguntas3.png)
 
-![image](assets/img/diagrama-banco-zona.png)
+![image](assets/img/diagrama-banco-zona.pnmag)
 
 ![image](assets/img/diagrama-compras.png)
 
@@ -150,6 +150,10 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 #### Affinity MAP
 
 ![image](assets/img/afinitymap.png)
+
+#### PROBLEM STATEMENT
+
+![image](assets/img/problemstatement.png)
 
 #### User Persona
 ![image](assets/img/up.jpg)
