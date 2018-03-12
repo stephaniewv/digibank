@@ -132,7 +132,7 @@ El ojetivo de la siguiente entrevista es conocer al millennials y su relación c
 ![image](https://user-images.githubusercontent.com/32310873/37059551-c465f09c-215b-11e8-8737-c802c4c1d6c6.png)
 ![image](https://user-images.githubusercontent.com/32310873/37259747-5658c646-2558-11e8-8913-84e8b28b51c6.png)
 ![image](https://user-images.githubusercontent.com/32310873/37259736-2c012ae6-2558-11e8-8ada-6c05ef234074.png)
-![image](assets/img/entrevistas.png)
+![image](assets/img/entrevistados.png)
 
 
 ### Lista de preguntas relevantes, de nuestra Investigación.
